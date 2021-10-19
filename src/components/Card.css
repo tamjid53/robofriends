@@ -1,0 +1,4 @@
+div > #word-wrap{
+    word-wrap: break-word;
+    font-family: Algerian;
+}
